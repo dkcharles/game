@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "OMzpaEfPqBV6hSFZhXfzXb/K2XbnRfPN7pXSWpTvbHOxW3BE89SMmxyzoru9NSjRKgjrTto3pqnK3ojdGpKT5w==",
+  "dgSpecHash": "YZu5rAVLz6rU0hXYO+myngZQ9bQ2ydxJDifddPTbIW9J2QovBtFtuFlM1AHCabG3gQIHy5re37trh7ZghoRPLg==",
   "success": true,
   "projectFilePath": "/workspaces/game/game.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/raylib-cs/6.0.0/raylib-cs.6.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }
