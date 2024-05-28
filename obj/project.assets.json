@@ -8,26 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Darryl\\.nuget\\packages\\": {}
+    "/home/codespace/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\__Dev\\TeachingExamples\\2024-25 Coding\\game\\game.csproj",
+      "projectUniqueName": "/workspaces/game/game.csproj",
       "projectName": "game",
-      "projectPath": "E:\\__Dev\\TeachingExamples\\2024-25 Coding\\game\\game.csproj",
-      "packagesPath": "C:\\Users\\Darryl\\.nuget\\packages\\",
-      "outputPath": "E:\\__Dev\\TeachingExamples\\2024-25 Coding\\game\\obj\\",
+      "projectPath": "/workspaces/game/game.csproj",
+      "packagesPath": "/home/codespace/.nuget/packages/",
+      "outputPath": "/workspaces/game/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Darryl\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/codespace/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -66,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.204/RuntimeIdentifierGraph.json"
       }
     }
   }

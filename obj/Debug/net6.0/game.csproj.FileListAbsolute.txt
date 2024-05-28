@@ -1,14 +1,29 @@
-E:\__Dev\TeachingExamples\2024-25 Coding\game\bin\Debug\net6.0\game.exe
-E:\__Dev\TeachingExamples\2024-25 Coding\game\bin\Debug\net6.0\game.deps.json
-E:\__Dev\TeachingExamples\2024-25 Coding\game\bin\Debug\net6.0\game.runtimeconfig.json
-E:\__Dev\TeachingExamples\2024-25 Coding\game\bin\Debug\net6.0\game.dll
-E:\__Dev\TeachingExamples\2024-25 Coding\game\bin\Debug\net6.0\game.pdb
-E:\__Dev\TeachingExamples\2024-25 Coding\game\obj\Debug\net6.0\game.GeneratedMSBuildEditorConfig.editorconfig
-E:\__Dev\TeachingExamples\2024-25 Coding\game\obj\Debug\net6.0\game.AssemblyInfoInputs.cache
-E:\__Dev\TeachingExamples\2024-25 Coding\game\obj\Debug\net6.0\game.AssemblyInfo.cs
-E:\__Dev\TeachingExamples\2024-25 Coding\game\obj\Debug\net6.0\game.csproj.CoreCompileInputs.cache
-E:\__Dev\TeachingExamples\2024-25 Coding\game\obj\Debug\net6.0\game.dll
-E:\__Dev\TeachingExamples\2024-25 Coding\game\obj\Debug\net6.0\refint\game.dll
-E:\__Dev\TeachingExamples\2024-25 Coding\game\obj\Debug\net6.0\game.pdb
-E:\__Dev\TeachingExamples\2024-25 Coding\game\obj\Debug\net6.0\game.genruntimeconfig.cache
-E:\__Dev\TeachingExamples\2024-25 Coding\game\obj\Debug\net6.0\ref\game.dll
+E:/__Dev/TeachingExamples/2024-25 Coding/game/bin/Debug/net6.0/game.exe
+E:/__Dev/TeachingExamples/2024-25 Coding/game/bin/Debug/net6.0/game.deps.json
+E:/__Dev/TeachingExamples/2024-25 Coding/game/bin/Debug/net6.0/game.runtimeconfig.json
+E:/__Dev/TeachingExamples/2024-25 Coding/game/bin/Debug/net6.0/game.dll
+E:/__Dev/TeachingExamples/2024-25 Coding/game/bin/Debug/net6.0/game.pdb
+E:/__Dev/TeachingExamples/2024-25 Coding/game/obj/Debug/net6.0/game.GeneratedMSBuildEditorConfig.editorconfig
+E:/__Dev/TeachingExamples/2024-25 Coding/game/obj/Debug/net6.0/game.AssemblyInfoInputs.cache
+E:/__Dev/TeachingExamples/2024-25 Coding/game/obj/Debug/net6.0/game.AssemblyInfo.cs
+E:/__Dev/TeachingExamples/2024-25 Coding/game/obj/Debug/net6.0/game.csproj.CoreCompileInputs.cache
+E:/__Dev/TeachingExamples/2024-25 Coding/game/obj/Debug/net6.0/game.dll
+E:/__Dev/TeachingExamples/2024-25 Coding/game/obj/Debug/net6.0/refint/game.dll
+E:/__Dev/TeachingExamples/2024-25 Coding/game/obj/Debug/net6.0/game.pdb
+E:/__Dev/TeachingExamples/2024-25 Coding/game/obj/Debug/net6.0/game.genruntimeconfig.cache
+E:/__Dev/TeachingExamples/2024-25 Coding/game/obj/Debug/net6.0/ref/game.dll
+/workspaces/game/bin/Debug/net6.0/game
+/workspaces/game/bin/Debug/net6.0/game.deps.json
+/workspaces/game/bin/Debug/net6.0/game.runtimeconfig.json
+/workspaces/game/bin/Debug/net6.0/game.dll
+/workspaces/game/bin/Debug/net6.0/game.pdb
+/workspaces/game/obj/Debug/net6.0/game.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/game/obj/Debug/net6.0/game.AssemblyInfoInputs.cache
+/workspaces/game/obj/Debug/net6.0/game.AssemblyInfo.cs
+/workspaces/game/obj/Debug/net6.0/game.csproj.CoreCompileInputs.cache
+/workspaces/game/obj/Debug/net6.0/game.sourcelink.json
+/workspaces/game/obj/Debug/net6.0/game.dll
+/workspaces/game/obj/Debug/net6.0/refint/game.dll
+/workspaces/game/obj/Debug/net6.0/game.pdb
+/workspaces/game/obj/Debug/net6.0/game.genruntimeconfig.cache
+/workspaces/game/obj/Debug/net6.0/ref/game.dll

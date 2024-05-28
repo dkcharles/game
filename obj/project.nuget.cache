@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0XGjC/oBAHtPaXC/hYSIDOshTEIg8enIwex7WhdR3J8dY9ifKjDQ1PWUfSCxRLaNC+EdNQ7HiP02BNvUUXbsVQ==",
+  "dgSpecHash": "OMzpaEfPqBV6hSFZhXfzXb/K2XbnRfPN7pXSWpTvbHOxW3BE89SMmxyzoru9NSjRKgjrTto3pqnK3ojdGpKT5w==",
   "success": true,
-  "projectFilePath": "E:\\__Dev\\TeachingExamples\\2024-25 Coding\\game\\game.csproj",
+  "projectFilePath": "/workspaces/game/game.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
